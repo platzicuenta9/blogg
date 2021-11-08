@@ -22,5 +22,7 @@ git config -l
 git log --graph
 git log --graph --decorate --oneline
 alias arbolito="git log --graph --decorate --oneline"
+git tag -a v0.1 -m "Resultado de las primeras clases" 75fcded
+git show-ref --tags
 
 	 

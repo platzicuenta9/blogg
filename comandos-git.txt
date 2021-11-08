@@ -18,5 +18,9 @@ git remote add origin https://github.com/platzicuenta9/hyperblog.git
 git remote
 git remote -v
 git pull origin master --allow-unreleated-histories
+git config -l
+git log --graph
+git log --graph --decorate --oneline
+alias arbolito="git log --graph --decorate --oneline"
 
 	 

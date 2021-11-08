@@ -30,3 +30,10 @@ body {
     font-weight: normal;
     font-size: 0.8em;
 }
+
+footer{
+    background-color: lightgoldenrodyellow;
+    padding: 1rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}

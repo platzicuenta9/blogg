@@ -1,0 +1,22 @@
+git init
+git add biografia.txt
+git commit -m "version 1"
+git add .
+git status
+git show
+git log biografia.txt
+git push
+git checkout // Verificar los cambios  de otros hacia mi repositorio
+git config --list --show origin // Ver donde estan guardadas las configuraciones de Git
+git reset codigo --hard
+git reset codigo --soft
+git log --stat
+git checkout 6391c29ac054b2ed2eb6c7295b863992231df373 historia.txt
+git checkout master historia.txt
+git branch cabecera
+git remote add origin https://github.com/platzicuenta9/hyperblog.git
+git remote
+git remote -v
+git pull origin master --allow-unreleated-histories
+
+	 

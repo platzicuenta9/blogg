@@ -17,12 +17,15 @@ body {
 }
 
 #cabecera {
-    background-color: #33A;
+    background-color: lightblue;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.75);
     color: white;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 
 #cabecera #tagline{

@@ -30,4 +30,9 @@ git tag -d dormido
 git push origin :refs/tags/dormido
 git push origin ramacabecera
 
+master -> servidor produccion
+p.r
+feature
+p.r
+staging develop -> servidor pruebas
 	 

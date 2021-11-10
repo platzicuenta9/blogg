@@ -36,3 +36,18 @@ feature
 p.r
 staging develop -> servidor pruebas
 	 
+git remote add upstream https>//git...
+git remote -v
+git pull upstream master
+
+
+https://pandao.github.io/editor.md/en.html
+
+revistar
+laravel
+vue
+tryGhost
+
+como hacen el .gitignore
+
+imgurl.com para subir los binarios de imagenes
